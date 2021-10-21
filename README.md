@@ -30,8 +30,8 @@ Just for clarification, an item can never have its Quality increase above 50, ho
 
 ## TASK
 1. Fork this repo
-2. Refactor at as you see fit
-3. Submit the url to the forked repo for review
+2. Refactor as you see fit
+3. Submit a pull request or email a link to your repo before the scheduled interview time
 
 ### additional rules
 * the business rules of the refactored code (as defined above) must be consistent
